@@ -4,6 +4,9 @@ A Spring Boot application that generates webhooks, solves SQL problems, and subm
 
 ## Overview
 
+![Maven Daemon setup screenshot](https://github.com/user-attachments/assets/f0af42b3-ad5c-4a77-b48f-bba2346cceea)
+
+
 This application implements the following workflow:
 1. On startup, sends a POST request to generate a webhook
 2. Receives webhook URL and access token
