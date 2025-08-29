@@ -104,10 +104,9 @@ run.bat
 
 ## Dependencies
 
-- Spring Boot 2.7.10
+- Spring Boot 3.2.0
 - Spring Boot Starter Web
 - Jackson for JSON processing
-- JWT Token support
 
 ## Features
 
@@ -130,3 +129,8 @@ The application will log:
 - Source code in this repository
 - JAR file: `target/bajaj-webhook-app-1.0.0.jar`
 - This README with instructions
+
+## JAR Download Link
+
+Raw downloadable GitHub link to JAR:
+`https://github.com/Anuragspace/bajaj-webhook/raw/main/target/bajaj-webhook-app-1.0.0.jar`
