@@ -14,9 +14,9 @@ public class WebhookRunner implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         // User details - replace with your actual details
-        String name = "Your Name";  // Replace with your actual name
-        String regNo = "REG12346"; // Replace with your actual registration number (even for Question 2)
-        String email = "your.email@example.com"; // Replace with your actual email
+        String name = "Anurag Adarsh";  // Replace with your actual name
+        String regNo = "22BML0024"; // Replace with your actual registration number (even for Question 2)
+        String email = "anuraglife2020@gmail.com"; // Replace with your actual email
         
         System.out.println("===========================================");
         System.out.println("BAJAJ WEBHOOK APPLICATION STARTING...");
